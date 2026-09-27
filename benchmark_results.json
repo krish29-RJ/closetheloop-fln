@@ -1,0 +1,31 @@
+{
+  "total_samples": 1000,
+  "accuracy_percent": 98.5,
+  "execution_time_sec": 0.0051,
+  "confusion_matrix": {
+    "GROUP_A_NUMBER_LINE_GAP": {
+      "GROUP_A_NUMBER_LINE_GAP": 250,
+      "GROUP_B_REGROUPING_FALLACY": 0,
+      "GROUP_C_SIGN_CONFUSION": 0,
+      "MASTERY_NO_ERROR": 0
+    },
+    "GROUP_B_REGROUPING_FALLACY": {
+      "GROUP_A_NUMBER_LINE_GAP": 0,
+      "GROUP_B_REGROUPING_FALLACY": 400,
+      "GROUP_C_SIGN_CONFUSION": 0,
+      "MASTERY_NO_ERROR": 0
+    },
+    "GROUP_C_SIGN_CONFUSION": {
+      "GROUP_A_NUMBER_LINE_GAP": 0,
+      "GROUP_B_REGROUPING_FALLACY": 0,
+      "GROUP_C_SIGN_CONFUSION": 150,
+      "MASTERY_NO_ERROR": 0
+    },
+    "MASTERY_NO_ERROR": {
+      "GROUP_A_NUMBER_LINE_GAP": 15,
+      "GROUP_B_REGROUPING_FALLACY": 0,
+      "GROUP_C_SIGN_CONFUSION": 0,
+      "MASTERY_NO_ERROR": 185
+    }
+  }
+}
